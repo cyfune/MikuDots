@@ -2,7 +2,7 @@
 
 My personal Hyprland rice configuration made to be clean and minimal to setup
 
-WE love hyprland transparency slop
+THIS IS A WIP!!!
 
 # Core
 - **Window Manager**: [Hyprland](https://github.com/hyprwm/Hyprland)
