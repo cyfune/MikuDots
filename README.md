@@ -6,6 +6,6 @@ WE love hyprland transparency slop
 
 # Core
 - **Window Manager**: [Hyprland](https://github.com/hyprwm/Hyprland)
-- **Compositor**: Wayland
+- **Compositor**: [Wayland](https://wayland.freedesktop.org)
 - **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/)
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
