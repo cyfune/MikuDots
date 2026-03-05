@@ -12,38 +12,39 @@ THIS IS A WIP!!
 - **Launcher**: [Fuzzel](https://mark.stosberg.com/fuzzel)
 - **Notifications**: [Swaync](https://github.com/ErikReider/SwayNotificationCenter)
 
-# Installation
+## Installation
 
-## Dependencies
+**Dependencies**
 ```
 sudo pacman -S hyprland hyprpaper kitty waybar fuzzel swaync pipewire pipewire-pulse wireplumber ttf-jetbrains-mono ttf-jetbrains-mono-nerd
 ```
 
-## Bar programs
+**Bar programs**
 ```
 sudo pacman -S pavucontrol thunar code firefox
 ```
 
-## NetworkManager UI
+**NetworkManager UI**
 ```
 yay -S nmgui-bin
 ```
 
-## Colors
+**Colors**
 ```
 yay -S python-pywal16
 ```
 
-## Applying the config
+**Applying the config**
 ```bash
 git clone https://github.com/cyfune/MikuDots
 cd MikuDots
 cp -r .config/* ~/.config/
 ```
 
-# Customization
+## Customization
 
-## Powerlevel10k
+**Powerlevel10k**
+
 This is what makes your shell look fancy
 
 ```bash
