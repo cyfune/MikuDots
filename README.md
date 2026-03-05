@@ -46,12 +46,10 @@ cp -r .config/* ~/.config/
 ## Powerlevel10k
 This is what makes your shell look fancy
 
-```
+```bash
 sudo pacman -S zsh
 chsh -s $(which zsh)
 yay -S zsh-theme-powerlevel10k
-```
-```bash
 echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >> ~/.zshrc
 ```
 
