@@ -15,13 +15,11 @@ THIS IS A WIP!!
 # Installation
 
 ## Dependencies
-
 ```
 sudo pacman -S hyprland hyprpaper zsh kitty waybar wofi swaync pipewire pipewire-pulse wireplumber ttf-jetbrains-mono ttf-jetbrains-mono-nerd
 ```
 
 ## Bar programs
-
 ```
 sudo pacman -S pavucontrol thunar code firefox
 ```
@@ -30,3 +28,12 @@ sudo pacman -S pavucontrol thunar code firefox
 ```
 yay -S nmgui-bin
 ```
+
+## Applying the config
+```bash
+git clone https://github.com/cyfune/MikuDots
+cd MikuDots
+cp -r .config/* ~/.config/
+```
+
+# Customization
