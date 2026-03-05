@@ -9,14 +9,14 @@ THIS IS A WIP!!
 - **Compositor**: [Wayland](https://wayland.freedesktop.org)
 - **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/)
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
-- **Launcher**: [Wofi](https://hg.sr.ht/~scoopta/wofi)
+- **Launcher**: [Fuzzel](https://mark.stosberg.com/fuzzel)
 - **Notifications**: [Swaync](https://github.com/ErikReider/SwayNotificationCenter)
 
 # Installation
 
 ## Dependencies
 ```
-sudo pacman -S hyprland hyprpaper kitty waybar wofi swaync pipewire pipewire-pulse wireplumber ttf-jetbrains-mono ttf-jetbrains-mono-nerd
+sudo pacman -S hyprland hyprpaper kitty waybar fuzzel swaync pipewire pipewire-pulse wireplumber ttf-jetbrains-mono ttf-jetbrains-mono-nerd
 ```
 
 ## Bar programs
