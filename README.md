@@ -16,7 +16,7 @@ THIS IS A WIP!!
 
 ## Dependencies
 ```
-sudo pacman -S hyprland hyprpaper zsh kitty waybar wofi swaync pipewire pipewire-pulse wireplumber ttf-jetbrains-mono ttf-jetbrains-mono-nerd
+sudo pacman -S hyprland hyprpaper kitty waybar wofi swaync pipewire pipewire-pulse wireplumber ttf-jetbrains-mono ttf-jetbrains-mono-nerd
 ```
 
 ## Bar programs
@@ -42,3 +42,17 @@ cp -r .config/* ~/.config/
 ```
 
 # Customization
+
+## Powerlevel10k
+This is what makes your shell look fancy
+
+```
+sudo pacman -S zsh
+chsh -s $(which zsh)
+yay -S zsh-theme-powerlevel10k
+```
+```bash
+echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >> ~/.zshrc
+```
+
+Then open a new terminal which will automatically run the p10k setup TUI
