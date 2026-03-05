@@ -9,3 +9,6 @@ THIS IS A WIP!!!
 - **Compositor**: [Wayland](https://wayland.freedesktop.org)
 - **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/)
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
+- **Launcher**: [Wofi](https://hg.sr.ht/~scoopta/wofi)
+
+# Install (AUR)
