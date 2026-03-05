@@ -1,4 +1,4 @@
-# MikuDots
+# ![Icon](https://i.ibb.co/4RPjmzYS/pin.png)  MikuDots
 
 My personal arch Hyprland rice configuration but made easy to replicate
 
