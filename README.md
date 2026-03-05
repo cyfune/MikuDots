@@ -1,16 +1,32 @@
 # MikuDots
 
-My personal Hyprland rice configuration made to be clean and minimal to setup
+My personal arch Hyprland rice configuration but made easy to replicate
 
-THIS IS A WIP!!!
+THIS IS A WIP!!
 
-# Core
+## Core
 - **Window Manager**: [Hyprland](https://github.com/hyprwm/Hyprland)
 - **Compositor**: [Wayland](https://wayland.freedesktop.org)
 - **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/)
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 - **Launcher**: [Wofi](https://hg.sr.ht/~scoopta/wofi)
 - **Notifications**: [Sway](https://github.com/ErikReider/SwayNotificationCenter)
-- **Networking**: [NetworkManager](https://networkmanager.dev/)
 
-# Install (AUR)
+# Installation
+
+## Dependencies
+
+```
+sudo pacman -S hyprland hyprpaper zsh kitty waybar wofi swaync pipewire pipewire-pulse wireplumber ttf-jetbrains-mono ttf-jetbrains-mono-nerd
+```
+
+## Bar programs
+
+```
+sudo pacman -S pavucontrol thunar code firefox
+```
+
+## NetworkManager UI
+```
+yay -S nmgui-bin
+```
