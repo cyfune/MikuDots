@@ -10,5 +10,6 @@ THIS IS A WIP!!!
 - **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/)
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 - **Launcher**: [Wofi](https://hg.sr.ht/~scoopta/wofi)
+- **Notifications**: [Sway](https://github.com/ErikReider/SwayNotificationCenter)
 
 # Install (AUR)
