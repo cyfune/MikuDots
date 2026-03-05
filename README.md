@@ -29,6 +29,11 @@ sudo pacman -S pavucontrol thunar code firefox
 yay -S nmgui-bin
 ```
 
+## Colors
+```
+yay -S python-pywal16
+```
+
 ## Applying the config
 ```bash
 git clone https://github.com/cyfune/MikuDots
