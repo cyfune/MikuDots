@@ -11,5 +11,6 @@ THIS IS A WIP!!!
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar)
 - **Launcher**: [Wofi](https://hg.sr.ht/~scoopta/wofi)
 - **Notifications**: [Sway](https://github.com/ErikReider/SwayNotificationCenter)
+- **Networking**: [NetworkManager](https://networkmanager.dev/)
 
 # Install (AUR)
