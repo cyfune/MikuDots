@@ -16,7 +16,7 @@ THIS IS A WIP!!
 
 **Dependencies**
 ```
-sudo pacman -S hyprland hyprpaper kitty waybar fuzzel swaync pipewire pipewire-pulse wireplumber ttf-jetbrains-mono ttf-jetbrains-mono-nerd
+sudo pacman -S hyprland hyprpaper kitty waybar fuzzel swaync pipewire pipewire-pulse wireplumber blueman ttf-jetbrains-mono ttf-jetbrains-mono-nerd
 ```
 
 **Bar programs**
