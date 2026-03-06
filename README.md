@@ -39,7 +39,7 @@ yay -S python-pywal16
 git clone https://github.com/cyfune/MikuDots
 cd MikuDots
 cp -r .config/* ~/.config/
-bash paths.sh
+bash paths.sh # RESOLVES CSS PATHS
 ```
 
 ## Customization
