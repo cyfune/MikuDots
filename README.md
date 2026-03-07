@@ -2,7 +2,7 @@
 
 My personal arch Hyprland rice configuration but made to be portable
 
-THIS IS A WIP!!
+![showcase](assets/showcase.png)
 
 ## Core
 - **Window Manager**: [Hyprland](https://github.com/hyprwm/Hyprland)
