@@ -1,6 +1,6 @@
 # ![Icon](https://i.ibb.co/ns4Y5Mvr/pinmiku.png) MikuDots
 
-My personal arch Hyprland rice configuration but made easy to replicate
+My personal arch Hyprland rice configuration but made to be portable
 
 THIS IS A WIP!!
 
