@@ -60,25 +60,33 @@ Then open a new terminal which will automatically run the p10k setup TUI
 ## Keybindings
 
 **Open app launcher**
+
 SUPER + A
 
 **Terminate active window**
+
 SUPER + Q
 
 **Open terminal**
+
 SUPER + ENTER
 
 **Reload hyprland config**
+
 SUPER + R
 
 **Terminate hyprland**
+
 SUPER + M
 
 **Open file manager**
+
 SUPER + E
 
 **Toggle floating**
+
 SUPER + V
 
 **Open notification center**
+
 SUPER + N
