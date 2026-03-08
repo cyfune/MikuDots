@@ -58,6 +58,7 @@ echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >> ~/.z
 Then open a new terminal which will automatically run the p10k setup TUI
 
 ## Keybindings
+Rest can be found in keybindings.conf
 
 **Open app launcher**
 
